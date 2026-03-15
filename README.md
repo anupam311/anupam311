@@ -1,16 +1,95 @@
-## Hi there 👋
+# Hi, I'm Anupam 👋
 
-<!--
-**anupam311/anupam311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTech Student in **Artificial Intelligence & Machine Learning**
+Aspiring **AI Engineer and Backend Developer**
 
-Here are some ideas to get you started:
+I enjoy building **full-stack web applications**, solving programming problems, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Portfolio
+
+You can view my portfolio website here:
+
+Portfolio
+https://anupam311.github.io/Personal-Profile
+
+---
+
+## Skills
+
+**Programming Languages**
+
+* Python
+* JavaScript
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+
+**Backend**
+
+* Flask
+
+**Databases**
+
+* SQL
+* PostgreSQL
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## Featured Projects
+
+### Flask To-Do Application
+
+Task management web application with authentication and database support.
+
+Repository
+https://github.com/anupam311/To_Do_Flask_App
+
+Live Demo
+https://to-do-flask-app-4vev.onrender.com/
+
+---
+
+### Campus Maintenance Portal
+
+Web-based complaint management system for campus maintenance.
+
+Repository
+https://github.com/anupam311/Campus-Maintenance-Portal
+
+Live Demo
+https://campus-maintenance-portal.onrender.com
+
+---
+
+## Currently Learning
+
+* Advanced Flask development
+* Backend architecture
+* Machine Learning fundamentals
+
+---
+
+## Connect With Me
+
+GitHub
+https://github.com/anupam311
+
+LinkedIn
+https://www.linkedin.com/in/anupam-chaudhary-358800387/
+
+---
+
+## Goals
+
+My goal is to become a **skilled AI Engineer and backend developer**, building intelligent systems and scalable applications.
