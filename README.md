@@ -74,6 +74,19 @@ https://campus-maintenance-portal.onrender.com
 
 ---
 
+### AI Study Assistant
+
+AI-powered study assistant for instant notes-to-summary, quiz, and explanation generation.
+
+Repository
+https://github.com/anupam311/ai_study_assistant
+
+Live Demo
+https://ai-study-assistant-ytsb.onrender.com
+
+---
+
+
 ## Currently Learning
 
 * Advanced Flask development
