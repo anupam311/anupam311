@@ -1,6 +1,6 @@
 # Hi, I'm Anupam 👋
 
-BTech Student in **Artificial Intelligence & Machine Learning**
+BTech Student in **Artificial Intelligence & Machine Learning**  
 Aspiring **AI Engineer and Backend Developer**
 
 I enjoy building **full-stack web applications**, solving programming problems, and continuously learning new technologies.
@@ -11,8 +11,8 @@ I enjoy building **full-stack web applications**, solving programming problems, 
 
 You can view my portfolio website here:
 
-Portfolio
-https://anupam311.github.io/Personal-Profile
+**Portfolio**  
+https://personal-profile-anupam.vercel.app/
 
 ---
 
@@ -20,31 +20,32 @@ https://anupam311.github.io/Personal-Profile
 
 ### Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -54,23 +55,23 @@ https://anupam311.github.io/Personal-Profile
 
 Task management web application with authentication and database support.
 
-Repository
+**Repository**  
 https://github.com/anupam311/To_Do_Flask_App
 
-Live Demo
+**Live Demo**  
 https://to-do-flask-app-4vev.onrender.com/
 
 ---
 
-### Campus Maintenance Portal
+### ChromaCraft
 
-Web-based complaint management system for campus maintenance.
+Modern color palette generator featuring multiple harmony modes, HSL/HEX editing, color locking, and palette export.
 
-Repository
-https://github.com/anupam311/Campus-Maintenance-Portal
+**Repository**  
+https://github.com/anupam311/chromacraft-digital-heroes-tool
 
-Live Demo
-https://campus-maintenance-portal.onrender.com
+**Live Demo**  
+https://chromacraft-digital-heroes-tool.vercel.app/
 
 ---
 
@@ -78,33 +79,32 @@ https://campus-maintenance-portal.onrender.com
 
 AI-powered study assistant for instant notes-to-summary, quiz, and explanation generation.
 
-Repository
+**Repository**  
 https://github.com/anupam311/ai_study_assistant
 
-Live Demo
+**Live Demo**  
 https://ai-study-assistant-ytsb.onrender.com
 
 ---
 
-
 ## Currently Learning
 
-* Advanced Flask development
-* Backend architecture
-* Machine Learning fundamentals
+- Advanced Flask development
+- Backend architecture
+- Machine Learning fundamentals
 
 ---
 
 ## Connect With Me
 
-GitHub
+**GitHub**  
 https://github.com/anupam311
 
-LinkedIn
+**LinkedIn**  
 https://www.linkedin.com/in/anupam-chaudhary-358800387/
 
 ---
 
 ## Goals
 
-My goal is to become a **skilled AI Engineer and backend developer**, building intelligent systems and scalable applications.
+My goal is to become a **skilled AI Engineer and Backend Developer**, building intelligent systems and scalable applications.
